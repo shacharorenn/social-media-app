@@ -1,0 +1,7 @@
+.e-search-post:before{
+    content:'\ec12';
+  }
+.e-search-error:before{
+    content:'\e7fc';
+    padding: 5px;
+}

@@ -1,0 +1,30 @@
+.e-search-login:before{
+    content:'\e354';
+  }
+.e-search-error:before{
+    content:'\e7fc';
+    padding: 5px;
+}
+.ui.grid{
+    display: flex;
+    justify-content: center;
+}  
+
+.ui.header{
+    padding:30px;
+}
+
+h2.ui.header {
+    font-size: 2.714286rem;
+}
+
+
+.error-from-server {
+    padding :30px;
+    font-family: Lato,'Helvetica Neue',Arial,Helvetica,sans-serif;
+    display: block;
+    font-weight: 400;
+    font-size: 1.14285714rem;
+    line-height: 1.2em;
+    color: red;
+}
